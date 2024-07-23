@@ -38,8 +38,8 @@ To run this project locally, follow these steps:
 2. Navigate to the project directory:
    cd hotel-booking-data-analysis
 
-3. Install the required Packages
+3. Install the required Packages:
    pip install -r requirements.txt
 
-4.Run the Streamlit Application
+ 4.Run the Streamlit Application:
   streamlit run app.py
