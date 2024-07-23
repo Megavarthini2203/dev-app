@@ -43,10 +43,10 @@ To run this project locally, follow these steps:
  4.Run the Streamlit Application:
   streamlit run app.py
 
-##Usage
+## Usage
 Once the application is running, you can navigate through different sections using the sidebar. Select different exercises to explore various aspects of data visualization and analysis.
 
-##Exercises
+## Exercises
 The application includes several exercises to help understand different aspects of data visualization and analysis:
 
 -Exercise 1: Choosing the right chart types
@@ -59,7 +59,7 @@ The application includes several exercises to help understand different aspects 
 -Exercise 8: Design and evaluate color palettes for visualization based on principles of perception
 -Exercise 9: Apply data transformations such as aggregation and filtering for visualization
 
-##Data Cleaning and Preprocessing
+## Data Cleaning and Preprocessing
 The data is cleaned and preprocessed before analysis:
 
 -Fill missing values for children, agent, and country
@@ -70,7 +70,7 @@ The data is cleaned and preprocessed before analysis:
 -Remove outliers using binning
 -Fill remaining NaN values with the mean
 
-##Visualization and Analysis
+## Visualization and Analysis
 Various visualizations are included to explore the data:
 
 -Distribution plots
